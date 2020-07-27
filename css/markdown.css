@@ -128,6 +128,7 @@ background-color: #1b1b1b;
 .md-unhidenspoiler > * {
   opacity: 1 !important;
   z-index: 1 !important;
+  color: white;
 }
 
 .md-media {
